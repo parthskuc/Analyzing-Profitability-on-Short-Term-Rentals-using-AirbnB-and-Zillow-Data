@@ -6,5 +6,5 @@ Help a real-estate agency understand the zip codes that would generate most prof
 
 Data The analysis will make use of:
 
-Zillow Data - Provides the price for two-bedroom properties in NYC
-Airbnb Data - Provides the rent charged for properties in NYC
+### Zillow Data - Provides the price for two-bedroom properties in NYC
+### Airbnb Data - Provides the rent charged for properties in NYC
