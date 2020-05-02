@@ -63,3 +63,11 @@ For this purpose of getting the top zipcodes there are some key metrics that I'l
 * Price and Availability are not inversely proportional. Customers are not hesitant to pay higher price ahead of time. The company can capitalize this behavior into their pricing scheme.
 
 * Staten Island and Queens Neighbourhood have limited choices but it also gets fewer guests. In case the company wants to diversify, they should pick the top zips from different neighbourhoods to minimize risk.
+
+### Top Zipcodes:
+* 11434
+* 10003
+* 10013
+* 11201
+* 11217 and 10014
+
