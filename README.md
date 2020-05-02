@@ -1,5 +1,6 @@
 # Analyzing-Profitability-on-Short-Term-Rentals-using-AirbnB-and-Zillow-Data
 
+https://rpubs.com/shreyjparth/607800
 
 ### Question: 
 Help a real-estate agency understand the zip codes that would generate most profit on short term rentals within New York City.
